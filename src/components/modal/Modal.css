@@ -1,0 +1,25 @@
+.modal{
+    color: white;
+    text-align: center;
+}
+.modal-title{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+
+}
+.modal-btn{
+    width:350px;
+    height: 50px;
+    font-size: 18px;
+    /* background-image:linear-gradient(#ee80f8,#591f91); */
+    background-color: #591f91 ;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1rem;
+    cursor: pointer;
+ }
